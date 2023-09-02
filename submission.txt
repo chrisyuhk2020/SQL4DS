@@ -348,23 +348,23 @@ Starting Hours for Phoenix(Restaurants) businesses with 4-5 stars               
 | 12:00 ~  |        0 |                                                                | 12:00 ~  |        0 |
 +----------+----------+                                                                +----------+----------+
 
-Ending Hours for Phoenix(Restaurants) businesses with 4-5 stars												Ending Hours for Phoenix(Restaurants) businesses with 2-3 stars
+Ending Hours for Phoenix(Restaurants) businesses with 4-5 stars                       Ending Hours for Phoenix(Restaurants) businesses with 2-3 stars
 +---------+----------+                                                                +---------+----------+
 | ending  | count(*) |                                                                | ending  | count(*) |
 +---------+----------+                                                                +---------+----------+
 | ~ 14:00 |        0 |                                                                | ~ 14:00 |        0 |
 | ~ 15:00 |        0 |                                                                | ~ 15:00 |        0 |
-| ~ 16:00 |        1 |				   																											| ~ 16:00 |        0 |
+| ~ 16:00 |        1 |                                                                | ~ 16:00 |        0 |
 | ~ 17:00 |        0 |                                                                | ~ 17:00 |        0 |
 | ~ 18:00 |        6 |                                                                | ~ 18:00 |        0 |
 | ~ 19:00 |        0 |                                                                | ~ 19:00 |        0 |
 | ~ 20:00 |        0 |                                                                | ~ 20:00 |        0 |
 | ~ 21:00 |        0 |                                                                | ~ 21:00 |        0 |
 | ~ 22:00 |        7 |                                                                | ~ 22:00 |        0 |
-| ~ 23:00 |        0 |																																| ~ 23:00 |        5 |
-| ~ 24:00 |        0 |																					 											| ~ 24:00 |        6 |
-| ~ 25:00 |        0 |																																| ~ 25:00 |        0 |
-| ~ 26:00 |        0 |																																| ~ 26:00 |        3 |
+| ~ 23:00 |        0 |                                                                | ~ 23:00 |        5 |
+| ~ 24:00 |        0 |                                                                | ~ 24:00 |        6 |
+| ~ 25:00 |        0 |                                                                | ~ 25:00 |        0 |
+| ~ 26:00 |        0 |                                                                | ~ 26:00 |        3 |
 +---------+----------+                                                                +---------+----------+
 
 SQL for Starting hours :
